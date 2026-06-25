@@ -66,6 +66,10 @@ Segment customers into different groups based on their purchasing behavior for t
 * Matplotlib
 * Seaborn
 
+* ### Model Used
+
+- K-Means Clustering
+
 ### Outcome
 
 Successfully grouped customers into meaningful clusters for better customer analysis and marketing strategies.
@@ -132,6 +136,10 @@ Analyze textual data and classify sentiment using Natural Language Processing an
 * Matplotlib
 * Seaborn
 
+* ### Model Used
+
+- Logistic Regression
+
 ### Outcome
 
 Successfully developed a sentiment analysis model capable of classifying text into different sentiment categories.
@@ -164,6 +172,10 @@ Predict house prices based on various housing features using Machine Learning.
 * NumPy
 * Scikit-learn
 
+* ### Model Used
+
+- Linear Regression
+
 ### Outcome
 
 Successfully developed a regression model for predicting housing prices.
@@ -194,6 +206,12 @@ Predict wine quality based on physicochemical properties using Machine Learning.
 * NumPy
 * Scikit-learn
 
+* ### Models Used
+
+- Random Forest Classifier
+- Support Vector Machine (SVM)
+- Stochastic Gradient Descent (SGD) Classifier
+
 ### Outcome
 
 Successfully built a machine learning model for predicting wine quality.
@@ -223,6 +241,12 @@ Detect fraudulent credit card transactions using classification algorithms.
 * Pandas
 * NumPy
 * Scikit-learn
+
+* ### Models Used
+
+- Logistic Regression
+- Decision Tree Classifier
+- Random Forest Classifier
 
 ### Outcome
 
@@ -259,3 +283,7 @@ Analyze Google Play Store applications and user reviews to identify trends, rati
 ### Outcome
 
 Successfully analyzed Google Play Store applications and user reviews to extract meaningful insights into app performance and user engagement.
+
+## Internship
+
+**Oasis Infobyte – Data Analytics Internship (OIBSIP)**
